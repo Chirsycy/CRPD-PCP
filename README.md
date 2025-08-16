@@ -1,7 +1,5 @@
 # DRDC-PCP: Novel Class Discovery for Hyperspectral Image via Class-Relation Perceptive Distillation with Prototype-level Clustering Prediction 
 
-![CRCD-PCP](./CRCD-PCP.png)
-
 
 ### Abstract
 
